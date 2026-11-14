@@ -2,11 +2,11 @@
 VST Virtual Instrument Plugin
 
 ### Recording Details
-**Microphones:** RODE NTG2, Neumann KM 184
+**Microphones:** RODE NTG2 & Neumann KM 184
 
 <img width="100%" alt="Main Interface" src="https://github.com/user-attachments/assets/6efabf49-6ec0-429c-bdb6-91dedbffa35e" />
 
----
+--- 
 
 | | |
 |:---:|:---:|
